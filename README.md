@@ -56,7 +56,7 @@ Simply do `%proxy hu` in `#proxy-commands` for more Holy Unblocker links on the 
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FtextbookRP%2FHoly-Unblocker)
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/textbookRP/Holy-Unblocker-Old&branch=master&name=HolyUnblocker&run_command=npm%start)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/textbookRP/Holy-Unblocker&branch=master&name=HolyUnblocker&run_command=npm%start)
 
 #### Is Holy Unblocker still being worked on?
 Yes! A lot of users may have noticed the initial message about Holy Unblocker being down however Holy Unblocker is now being maintained by a seperate team and no longer by me. You may check it out <a href="https://git.holy.how/">here</a> once setup or join the TN Discord linked below for more information. 
